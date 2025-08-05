@@ -1,18 +1,18 @@
-<h1 align="center">👋 Olá! Eu sou o Gutsvao Gonzaga</h1>
+<h1 align="center">👋 Olá! Eu sou o Gustavo Gonzaga</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Full Stack</strong> focado em entregar soluções robustas e eficientes, com experiência prática no desenvolvimento de APIs, interfaces modernas e bancos de dados performáticos.
+  Desenvolvedor <strong>Full Stack</strong> com experiência em aplicações web modernas, APIs RESTful e bancos de dados relacionais e NoSQL.
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 💼 Atualmente atuando como Dev Full Stack
-- 🚀 Stack principal: **TypeScript**, **React**, **Node.js**, **Express**
-- 🧰 Banco de dados: **MySQL**, **MongoDB**
-- 🛠️ Ferramentas: **Git**, **Postman**, **VSCode**
-- 💡 Sempre estudando novas tecnologias e boas práticas de arquitetura de software
+- 🔧 Desenvolvedor Full Stack focado em criar soluções completas
+- 🚀 Tecnologias principais: **React**, **TypeScript**, **Node.js**, **Express**
+- 🗃️ Banco de dados: **MySQL**, **MongoDB**
+- 🧰 Ferramentas: **Git**, **Postman**, **VS Code**
+- 📈 Buscando sempre evoluir com boas práticas e novas tecnologias
 
 ---
 
@@ -37,38 +37,29 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gutsvao&show_icons=true&theme=tokyonight&count_private=true&hide_title=false)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustaavo01&show_icons=true&theme=tokyonight&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gutsvao&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaavo01&layout=compact&theme=tokyonight&langs_count=6)
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque *(adicione links reais depois)*
-
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| `api-financeira` | Node.js, Express, MySQL | API REST para controle financeiro com autenticação JWT |
-| `dashboard-client` | React, TypeScript | Painel administrativo com autenticação e consumo de API |
-| `clone-whatsapp` | React, Firebase | Clone do WhatsApp com chat em tempo real |
-
----
-
 ## 📫 Contato
 
-- 📧 Email: [gutsvao@gmail.com](mailto:gutsvao@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/gutsvao](https://www.linkedin.com/in/gutsvao) *(edite com seu link real)*
-- 🌐 Portfólio: [gutsvao.dev](https://gutsvao.dev) *(se tiver site)*
+- 📧 Email: [gustavogonzaga1225@gmail.com](mailto:gustavogonzaga1225@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/gustavo-gonzaga-2481b3277](https://www.linkedin.com/in/gustavo-gonzaga-2481b3277)
+- 📱 WhatsApp: [(11) 98215-8962](https://wa.me/5511982158962)
 
 ---
 
 <p align="center">
-  <em>“Clean code é como poesia: claro, direto e significativo.”</em> 💬
+  <em>“Clean code é como poesia: direto, eficiente e fácil de entender.”</em> 💬
 </p>
+
 
 
