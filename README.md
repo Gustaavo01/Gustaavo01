@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Gustavo Gonzaga!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Desenvolvedor+Full+Stack;Apaixonado+por+c%C3%B3digo+limpo;React+%7C+TypeScript+%7C+Node.js+%7C+Express;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Desenvolvedor+Full+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Express;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
 - 👨‍💻 Desenvolvedor **Full Stack**
 - 🚀 Stack: React, TypeScript, Node.js, Express, MySQL, MongoDB
 - 📈 Focado em escalabilidade, performance e boas práticas
-- 💬 Apaixonado por tecnologia e sempre aprendendo algo novo
+- 💬 Sempre em busca de evolução contínua na área de tecnologia
 
 ---
 
@@ -48,9 +48,14 @@
 
 ---
 
+<!-- Você pode ativar os troféus futuramente se quiser -->
+<!--
 
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gustaavo01&theme=tokyonight&no-frame=true&column=7" />
+</p>
+-->
 
 ## 📫 Como me encontrar
 
@@ -63,5 +68,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation">
 </p>
-
-
