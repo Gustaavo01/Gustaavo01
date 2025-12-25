@@ -1,23 +1,23 @@
 <h1 align="center">👋 Olá, eu sou o Gustavo Gonzaga!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Desenvolvedor+Full+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Express;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Java+%7C+Spring;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💡 Sobre mim
 
-- 🎓 Cursando o **4º semestre de Gestão da Tecnologia da Informação**
+- 🎓 **Formado em Gestão da Tecnologia da Informação**
 - 👨‍💻 Desenvolvedor **Full Stack**
-- 🚀 Stack: React, TypeScript, Node.js, Express, MySQL, MongoDB
+- 🚀 Stack: React, TypeScript, Node.js, Express, Java, Spring Boot
+- 🗃️ Bancos de dados: MySQL, MongoDB, PostgreSQL
 - 📈 Focado em escalabilidade, performance e boas práticas
 - 💬 Sempre em busca de evolução contínua na área de tecnologia
 
 ---
 
 ## 🚀 Tecnologias que utilizo
-
 
 ### 👨‍🎨 Front-end
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -28,35 +28,37 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🗃 Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+## 🎓 Certificações
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gustaavo01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaavo01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170px"/>
-
-</div>
+- 🛡️ **Cyber Threat Management (Gestão de Ameaças Cibernéticas)**  
+  **Cisco Networking Academy**  
+  📅 Conclusão: **09/2025**
 
 ---
 
-<!-- Você pode ativar os troféus futuramente se quiser -->
-<!--
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustaavo01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaavo01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170px"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gustaavo01&theme=tokyonight&no-frame=true&column=7" />
-</p>
--->
+---
 
 ## 📫 Como me encontrar
 
@@ -69,3 +71,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation">
 </p>
+
+
+
