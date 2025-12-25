@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Gustavo Gonzaga!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Java+%7C+Spring;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Java+%7C+Spring;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
 </div>
 
 ---
@@ -40,6 +40,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
@@ -71,6 +73,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation">
 </p>
+
 
 
 
