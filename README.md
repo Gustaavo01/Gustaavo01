@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Gustavo Gonzaga</h1>
 
 <p align="center">
-  Desenvolvedor de Software em início de carreira • Back-end & Full Stack
+  Desenvolvedor de Software • Back-end & Full Stack
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 👨‍💻 Desenvolvedor com experiência em **projetos freelancer e acadêmicos**
 - 🚀 Foco principal em **back-end**, APIs REST e integração com banco de dados
 - 📚 Em constante evolução, buscando aplicar **boas práticas, organização de código e lógica de negócio**
-- 🎯 Interesse em oportunidades como **Estagiário ou Desenvolvedor Júnior**
+
 
 ---
 
