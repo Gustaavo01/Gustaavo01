@@ -1,3 +1,4 @@
+```md
 <h1 align="center">👋 Olá, eu sou o Gustavo Gonzaga</h1>
 
 <p align="center">
@@ -8,7 +9,7 @@
   <a href="https://github.com/Gustaavo01">
     <img src="https://img.shields.io/badge/GitHub-Gustaavo01-181717?style=for-the-badge&logo=github">
   </a>
-  
+
   <a href="https://linkedin.com/in/gustavo-gonzaga-2481b3277/">
     <img src="https://img.shields.io/badge/LinkedIn-Gustavo_Gonzaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -44,7 +45,7 @@
 # 💼 Experiência Profissional
 
 ## 🏢 PRODAM – Desenvolvimento de Sistemas
-###  Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda)
+### Estagiário em Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda)
 
 - Desenvolvimento e manutenção de rotinas automatizadas em **C#**
 - Processamento em lote de arquivos com mais de **3 milhões de registros**
@@ -54,9 +55,25 @@
 - Versionamento de código com **Git** e **TFS**
 - Atuação em ambiente corporativo com sistemas públicos de alta demanda
 
-- ## 💻 Desenvolvedor de Software – Freelancer - Desenvolvimento de aplicações web completas - Criação de APIs REST e integrações com banco de dados - Desenvolvimento de sistemas para pequenos negócios e e-commerces - Estruturação de lógica de negócio e organização Back-End - Manutenção e otimização de aplicações web --- ## 🎬 SuplementE-se Comércio e Distribuição de Suplementos LTDA ### Estagiário – Marketing Digital / Audiovisual - Edição de vídeos promocionais e conteúdos audiovisuais - Apoio em campanhas de marketing digital - Desenvolvimento de materiais criativos para redes sociais - Suporte em estratégias visuais para divulgação de produtos
+---
 
-- ## 🎬 SuplementE-se Comércio e Distribuição de Suplementos LTDA ### Estagiário – Marketing Digital / Audiovisual - Edição de vídeos promocionais e conteúdos audiovisuais - Apoio em campanhas de marketing digital - Desenvolvimento de materiais criativos para redes sociais - Suporte em estratégias visuais para divulgação de produtos
+## 💻 Desenvolvedor de Software – Freelancer
+
+- Desenvolvimento de aplicações web completas
+- Criação de APIs REST e integrações com banco de dados
+- Desenvolvimento de sistemas para pequenos negócios e e-commerces
+- Estruturação de lógica de negócio e organização Back-End
+- Manutenção e otimização de aplicações web
+
+---
+
+## 🎬 SuplementE-se Comércio e Distribuição de Suplementos LTDA
+### Estagiário – Marketing Digital / Audiovisual
+
+- Edição de vídeos promocionais e conteúdos audiovisuais
+- Apoio em campanhas de marketing digital
+- Desenvolvimento de materiais criativos para redes sociais
+- Suporte em estratégias visuais para divulgação de produtos
 
 ---
 
@@ -70,6 +87,17 @@
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
+
+---
+
+## 🎨 Front-End
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 
 ---
