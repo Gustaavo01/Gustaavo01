@@ -1,1 +1,136 @@
-<h1 align="center">👋 Olá, eu sou o Gustavo Gonzaga</h1> <p align="center"> Desenvolvedor Back-End • .NET • Java • APIs REST </p> <p align="center"> <a href="https://github.com/Gustaavo01"> <img src="https://img.shields.io/badge/GitHub-Gustaavo01-181717?style=for-the-badge&logo=github"> </a> <a href="https://linkedin.com/in/gustavo-gonzaga-2481b3277/"> <img src="https://img.shields.io/badge/LinkedIn-Gustavo_Gonzaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p> --- # 💡 Sobre mim 🎓 Formado em **Gestão da Tecnologia da Informação** 🎓 Graduando em **Engenharia de Software** 💻 Desenvolvedor **Back-End** com experiência em projetos freelancer, acadêmicos e ambiente corporativo. 🚀 Atualmente atuando com: - Desenvolvimento Back-End em **C#/.NET** - Processamento de dados em larga escala - APIs REST - Integração com banco de dados - Rotinas automatizadas (Cron Jobs) 📚 Em constante evolução técnica, aprofundando conhecimentos em: - Java & Spring Boot - Arquitetura de Software - Docker & Cloud - Clean Code - Microsserviços ⚡ Interesse em sistemas escaláveis, performance e automações inteligentes. --- # 💼 Experiência Profissional ## 🏢 PRODAM – Desenvolvimento de Sistemas ### Estagiário em Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda) - Desenvolvimento e manutenção de rotinas automatizadas em **C#** - Processamento em lote de arquivos com mais de **3 milhões de registros** - Manipulação de dados utilizando **Oracle Database** e **NHibernate** - Desenvolvimento Back-End utilizando **.NET** - Suporte a integrações frontend utilizando **JavaScript** - Versionamento de código com **Git** e **TFS** - Atuação em ambiente corporativo com sistemas públicos de alta demanda --- # 🚀 Tecnologias ## 🔧 Back-End <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> </p> --- ## 🗃 Banco de Dados <p> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> </p> --- ## ⚙️ Ferramentas & DevOps <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"> </p> --- # 🎓 Certificações & Cursos - 🛡️ Cyber Threat Management — Cisco Networking Academy - 🔐 Ethical Hacker — Cisco - ☁️ Microsoft Azure Fundamentals - 🤖 Automação com n8n - 🧠 Engenharia de Prompt - 📋 Engenharia de Requisitos - 🇺🇸 Inglês Avançado --- # 📈 Atualmente estudando - Microsserviços - Docker - Cloud Computing (Azure & AWS) - Arquitetura de Software - APIs REST escaláveis - Performance Back-End --- # 📫 Contato 📧 gustavogonzaga1225@gmail.com 💼 LinkedIn: https://linkedin.com/in/gustavo-gonzaga-2481b3277/ 🐙 GitHub: https://github.com/Gustaavo01 --- <p align="center"> 🚀 Focado em evolução constante no ecossistema Back-End e desenvolvimento de soluções escaláveis. </p>
+```md
+<h1 align="center">👋 Olá, eu sou o Gustavo Gonzaga</h1>
+
+<p align="center">
+  Desenvolvedor Back-End • .NET • Java • APIs REST
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gustaavo01">
+    <img src="https://img.shields.io/badge/GitHub-Gustaavo01-181717?style=for-the-badge&logo=github">
+  </a>
+  
+  <a href="https://linkedin.com/in/gustavo-gonzaga-2481b3277/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gustavo_Gonzaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+# 💡 Sobre mim
+
+🎓 Formado em **Gestão da Tecnologia da Informação**  
+🎓 Graduando em **Engenharia de Software**
+
+💻 Desenvolvedor **Back-End** com experiência em projetos freelancer, acadêmicos e ambiente corporativo.
+
+🚀 Atualmente atuando com:
+- Desenvolvimento Back-End em **C#/.NET**
+- Processamento de dados em larga escala
+- APIs REST
+- Integração com banco de dados
+- Rotinas automatizadas (Cron Jobs)
+
+📚 Em constante evolução técnica, aprofundando conhecimentos em:
+- Java & Spring Boot
+- Arquitetura de Software
+- Docker & Cloud
+- Clean Code
+- Microsserviços
+
+⚡ Interesse em sistemas escaláveis, performance e automações inteligentes.
+
+---
+
+# 💼 Experiência Profissional
+
+## 🏢 PRODAM – Desenvolvimento de Sistemas
+### Estagiário em Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda)
+
+- Desenvolvimento e manutenção de rotinas automatizadas em **C#**
+- Processamento em lote de arquivos com mais de **3 milhões de registros**
+- Manipulação de dados utilizando **Oracle Database** e **NHibernate**
+- Desenvolvimento Back-End utilizando **.NET**
+- Suporte a integrações frontend utilizando **JavaScript**
+- Versionamento de código com **Git** e **TFS**
+- Atuação em ambiente corporativo com sistemas públicos de alta demanda
+
+---
+
+# 🚀 Tecnologias
+
+## 🔧 Back-End
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
+
+---
+
+## 🗃 Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+---
+
+## ⚙️ Ferramentas & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+</p>
+
+---
+
+# 🎓 Certificações & Cursos
+
+- 🛡️ Cyber Threat Management — Cisco Networking Academy
+- 🔐 Ethical Hacker — Cisco
+- ☁️ Microsoft Azure Fundamentals
+- 🤖 Automação com n8n
+- 🧠 Engenharia de Prompt
+- 📋 Engenharia de Requisitos
+- 🇺🇸 Inglês Avançado
+
+---
+
+# 📈 Atualmente estudando
+
+- Microsserviços
+- Docker
+- Cloud Computing (Azure & AWS)
+- Arquitetura de Software
+- APIs REST escaláveis
+- Performance Back-End
+
+---
+
+# 📫 Contato
+
+📧 gustavogonzaga1225@gmail.com
+
+💼 LinkedIn:  
+https://linkedin.com/in/gustavo-gonzaga-2481b3277/
+
+🐙 GitHub:  
+https://github.com/Gustaavo01
+
+---
+
+<p align="center">
+  🚀 Focado em evolução constante no ecossistema Back-End e desenvolvimento de soluções escaláveis.
+</p>
+```
