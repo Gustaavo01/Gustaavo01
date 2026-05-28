@@ -45,7 +45,7 @@
 # 💼 Experiência Profissional
 
 ## 🏢 PRODAM – Desenvolvimento de Sistemas
-### Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda)
+###  Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda)
 
 - Desenvolvimento e manutenção de rotinas automatizadas em **C#**
 - Processamento em lote de arquivos com mais de **3 milhões de registros**
@@ -107,6 +107,8 @@
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
