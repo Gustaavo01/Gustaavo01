@@ -45,7 +45,7 @@
 # 💼 Experiência Profissional
 
 ## 🏢 PRODAM – Desenvolvimento de Sistemas
-### Estagiário em Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda)
+### Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda)
 
 - Desenvolvimento e manutenção de rotinas automatizadas em **C#**
 - Processamento em lote de arquivos com mais de **3 milhões de registros**
