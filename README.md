@@ -44,7 +44,7 @@
 # 💼 Experiência Profissional
 
 ## 🏢 PRODAM – Desenvolvimento de Sistemas
-### Estagiário em Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda)
+###  Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda)
 
 - Desenvolvimento e manutenção de rotinas automatizadas em **C#**
 - Processamento em lote de arquivos com mais de **3 milhões de registros**
@@ -53,6 +53,10 @@
 - Suporte a integrações frontend utilizando **JavaScript**
 - Versionamento de código com **Git** e **TFS**
 - Atuação em ambiente corporativo com sistemas públicos de alta demanda
+
+- ## 💻 Desenvolvedor de Software – Freelancer - Desenvolvimento de aplicações web completas - Criação de APIs REST e integrações com banco de dados - Desenvolvimento de sistemas para pequenos negócios e e-commerces - Estruturação de lógica de negócio e organização Back-End - Manutenção e otimização de aplicações web --- ## 🎬 SuplementE-se Comércio e Distribuição de Suplementos LTDA ### Estagiário – Marketing Digital / Audiovisual - Edição de vídeos promocionais e conteúdos audiovisuais - Apoio em campanhas de marketing digital - Desenvolvimento de materiais criativos para redes sociais - Suporte em estratégias visuais para divulgação de produtos
+
+- ## 🎬 SuplementE-se Comércio e Distribuição de Suplementos LTDA ### Estagiário – Marketing Digital / Audiovisual - Edição de vídeos promocionais e conteúdos audiovisuais - Apoio em campanhas de marketing digital - Desenvolvimento de materiais criativos para redes sociais - Suporte em estratégias visuais para divulgação de produtos
 
 ---
 
