@@ -19,7 +19,7 @@
 
 I'm a **Backend Developer specializing in C# and .NET**, with experience in enterprise systems, RESTful APIs, database integration, and backend automation.
 
-Currently working as a **.NET Backend Development Intern at PRODAM**, contributing to enterprise applications and public-sector systems.
+Currently working as a **.NET Backend Development at PRODAM**, contributing to enterprise applications and public-sector systems.
 
 My main focus is strengthening my software engineering skills while deepening my knowledge of **Clean Architecture, Microservices, Event-Driven Architecture, and Distributed Systems**.
 
