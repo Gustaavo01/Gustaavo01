@@ -84,7 +84,7 @@ My main focus is strengthening my software engineering skills while deepening my
 
 ## 💼 Professional Experience
 
-### 🏢 PRODAM — .NET Backend Development Intern
+### 🏢 PRODAM — .NET Backend Development
 
 **Enterprise Systems | Public-Sector Technology**
 
