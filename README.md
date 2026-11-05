@@ -1,169 +1,75 @@
-
-<h1 align="center">👋 Olá, eu sou o Gustavo Gonzaga</h1>
-
-<p align="center">
-  Desenvolvedor Back-End • .NET • Java • APIs REST
-</p>
-
-<p align="center">
+<h1 align="center">Hi, I'm Gustavo Gonzaga 👋</h1><h3 align="center">Backend Developer | C# & .NET | REST APIs</h3><p align="center">
+  Building reliable backend solutions and growing my expertise in <strong>microservices, messaging, and distributed systems</strong>.
+</p><p align="center">
   <a href="https://github.com/Gustaavo01">
-    <img src="https://img.shields.io/badge/GitHub-Gustaavo01-181717?style=for-the-badge&logo=github">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Gustaavo01-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://linkedin.com/in/gustavo-gonzaga-2481b3277/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gustavo_Gonzaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/gustavo-gonzaga-2481b3277/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-# 💡 Sobre mim
-
-🎓 Formado em **Gestão da Tecnologia da Informação**  
-🎓 Graduando em **Engenharia de Software**
-
-💻 Desenvolvedor **Back-End** com experiência em projetos freelancer, acadêmicos e ambiente corporativo.
-
-🚀 Atualmente atuando com:
-- Desenvolvimento Back-End em **C#/.NET**
-- Processamento de dados em larga escala
-- APIs REST
-- Integração com banco de dados
-- Rotinas automatizadas (Cron Jobs)
-
-📚 Em constante evolução técnica, aprofundando conhecimentos em:
-- Java & Spring Boot
-- Arquitetura de Software
-- Docker & Cloud
-- Clean Code
-- Microsserviços
-
-⚡ Interesse em sistemas escaláveis, performance e automações inteligentes.
-
----
-
-# 💼 Experiência Profissional
-
-## 🏢 PRODAM – Desenvolvimento de Sistemas
-###  Desenvolvimento Back-End (.NET) | Sistema de IPTU (Fazenda)
-
-- Desenvolvimento e manutenção de rotinas automatizadas em **C#**
-- Processamento em lote de arquivos com mais de **3 milhões de registros**
-- Manipulação de dados utilizando **Oracle Database** e **NHibernate**
-- Desenvolvimento Back-End utilizando **.NET**
-- Suporte a integrações frontend utilizando **JavaScript**
-- Versionamento de código com **Git** e **TFS**
-- Atuação em ambiente corporativo com sistemas públicos de alta demanda
-
----
-
-## 💻 Desenvolvedor de Software – Freelancer
-
-- Desenvolvimento de aplicações web completas
-- Criação de APIs REST e integrações com banco de dados
-- Desenvolvimento de sistemas para pequenos negócios e e-commerces
-- Estruturação de lógica de negócio e organização Back-End
-- Manutenção e otimização de aplicações web
-
----
-
-## 🎬 SuplementE-se Comércio e Distribuição de Suplementos LTDA
-### Estagiário – Marketing Digital / Audiovisual
-
-- Edição de vídeos promocionais e conteúdos audiovisuais
-- Apoio em campanhas de marketing digital
-- Desenvolvimento de materiais criativos para redes sociais
-- Suporte em estratégias visuais para divulgação de produtos
-
----
-
-# 🚀 Tecnologias
-
-## 🔧 Back-End
-
+  <a href="mailto:gustavogonzaga1225@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>👨‍💻 About me
+I'm a Backend Developer and Software Engineering student, with a degree in Information Technology Management. I have experience with enterprise systems, freelance projects, database integrations, and backend automation.
+- 💼 Currently working as a .NET Backend Development Intern at PRODAM, supporting public-sector systems.
+- ⚙️ Focused on C#, .NET, backend architecture, and RESTful APIs.
+- 🧩 Deepening my knowledge of microservices, RabbitMQ, event-driven communication, and Docker.
+- 🎯 Interested in building maintainable, testable, and scalable systems.
+🛠️ Tech stack
+Backend & APIs
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
+  <img alt="Entity Framework Core" src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
-
----
-
-## 🎨 Front-End
-
+Databases & development tools
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
----
-
-## 🗃 Banco de Dados
-
+Currently learning & exploring
 <p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-334155?style=for-the-badge" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>🧱 Backend engineering interests
+- Software architecture: Clean Architecture, separation of concerns, and maintainable code.
+- Distributed systems: microservice boundaries and communication between services.
+- Asynchronous messaging: RabbitMQ, queues, events, and reliable message processing.
+- API quality: validation, pagination, error handling, logging, and testing.
+- Deployment: containerization with Docker and cloud fundamentals.
+💼 Experience
+PRODAM — Backend Development Intern (.NET)
+Public-sector systems | Property tax (IPTU) domain
+- Develop and maintain backend routines and integrations using C#/.NET.
+- Work with Oracle Database and NHibernate in enterprise applications.
+- Contribute to batch-processing workflows involving files with more than 3 million records.
+- Support system maintenance, automation, troubleshooting, and version control with Git/TFS.
+Freelance Software Developer
+- Built web applications, backend functionality, REST APIs, and database integrations for client projects.
+- Worked on business logic, application maintenance, and improvements to existing solutions.
+🚧 What I'm building and studying
+.NET Product API — personal learning project
 
----
-
-## ⚙️ Ferramentas & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-</p>
-
----
-
-# 🎓 Certificações & Cursos
-
-- 🛡️ Cyber Threat Management — Cisco Networking Academy
-- 🔐 Ethical Hacker — Cisco
-- ☁️ Microsoft Azure Fundamentals
-- 🤖 Automação com n8n
-- 🧠 Engenharia de Prompt
-- 📋 Engenharia de Requisitos
-- 🇺🇸 Inglês Avançado
-
----
-
-# 📈 Atualmente estudando
-
-- Microsserviços
-- Docker
-- Cloud Computing (Azure & AWS)
-- Arquitetura de Software
-- APIs REST escaláveis
-- Performance Back-End
-
----
-
-# 📫 Contato
-
-📧 gustavogonzaga1225@gmail.com
-
-💼 LinkedIn:  
-https://linkedin.com/in/gustavo-gonzaga-2481b3277/
-
-🐙 GitHub:  
-https://github.com/Gustaavo01
-
----
-
-<p align="center">
-  🚀 Focado em evolução constante no ecossistema Back-End e desenvolvimento de soluções escaláveis.
-</p>
-```
+A backend API built with C#, ASP.NET Core, Entity Framework Core, and MySQL, focused on practical backend fundamentals:
+- CRUD operations, DTOs, request validation, and pagination.
+- Global exception handling, structured error responses, and logging.
+- Repository abstractions and clear separation of responsibilities.
+Next steps: add unit and integration tests, explore RabbitMQ-based communication, design small independent services, and run them with Docker.
+🎓 Education
+- Software Engineering (undergraduate) — In progress.
+- Degree in Information Technology Management — Completed.
+📫 Let's connect
+I'm always interested in learning, exchanging ideas about backend engineering, and connecting with developers working with .NET and distributed systems.
+- LinkedIn: gustavo-gonzaga-2481b3277
+- Email: gustavogonzaga1225@gmail.com
+- GitHub: Gustaavo01
+<p align="center"><em>Learning continuously. Building with purpose. Growing in the .NET ecosystem.</em></p>
